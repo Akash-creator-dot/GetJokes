@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">getJokes</string>
+    <string name="get_joke">Get Joke</string>
+    <string name="jokes">Jokes :</string>
+</resources>
